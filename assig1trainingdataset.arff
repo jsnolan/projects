@@ -1,0 +1,61 @@
+@relation opinion_mining
+
+@attribute cute {yes,no}
+@attribute not {yes,no}
+@attribute wait {yes,no}
+@attribute sad {yes,no}
+@attribute cant {yes,no}
+@attribute positive {yes, no}
+
+@data
+yes,no,no,no,no,yes
+yes,yes,no,no,no,no
+yes,no,yes,no,no,yes
+yes,no,no,yes,no,no
+yes,yes,yes,no,no,yes
+yes,yes,no,yes,no,no
+yes,no,yes,yes,no,no
+yes,yes,yes,yes,no,no
+no,yes,no,no,no,yes
+no,yes,yes,no,no,no
+no,yes,no,yes,no,yes
+no,yes,yes,yes,no,yes
+no,no,yes,no,no,no
+no,no,yes,yes,no,no
+no,no,no,yes,no,no
+no,no,yes,no,yes,yes
+yes,no,yes,no,yes,yes
+yes,yes,yes,yes,no,no
+yes,yes,yes,yes,yes,yes
+no,yes,yes,no,yes,no
+no,no,yes,yes,yes,no
+no,yes,no,no,yes,no
+no,no,yes,yes,no,no
+yes,no,no,yes,no,no
+no,yes,yes,no,yes,yes
+yes,yes,yes,no,yes,yes
+no,no,no,no,no,no
+yes,no,yes,yes,no,yes
+no,yes,yes,yes,yes,no
+yes,no,yes,no,yes,yes
+yes,no,yes,yes,yes,no
+yes,no,no,no,yes,yes
+no,no,yes,no,yes,yes
+no,yes,yes,no,no,no
+no,yes,yes,yes,no,no
+yes,yes,no,yes,no,no
+no,no,no,yes,yes,no
+yes,no,no,no,yes,yes
+yes,no,no,yes,yes,no
+no,yes,no,yes,no,yes
+no,yes,no,no,yes,no
+no,no,yes,yes,yes,no
+yes,yes,no,yes,yes,yes
+yes,yes,yes,no,yes,yes
+no,yes,yes,no,yes,yes
+yes,no,no,yes,yes,yes
+no,no,no,yes,no,no
+yes,no,yes,no,yes,yes
+no,yes,no,yes,no,yes
+no,no,yes,yes,no,no
+yes,yes,no,no,yes,yes
